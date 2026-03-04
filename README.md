@@ -3,7 +3,7 @@
 <div align="center">
 
 <!-- Header animado -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=amarocatemaxcaleonardo-max&fontSize=32&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Data%20Science&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:21262d&height=200&section=header&text=sigma&fontSize=32&fontColor=58a6ff&fontAlignY=38&desc=Full%20Stack%20%7C%20Backend%20%7C%20Data%20Science&descAlignY=58&descSize=16&descColor=8b949e&animation=fadeIn" width="100%"/>
 
 <!-- Typing animation -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Building+robust+backends+%F0%9F%94%A7;Crafting+full-stack+solutions+%F0%9F%8C%90;Turning+data+into+insights+%F0%9F%A7%A0;Always+learning%2C+always+shipping+%F0%9F%9A%80)](https://git.io/typing-svg)
